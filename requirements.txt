@@ -1,0 +1,14 @@
+fastparquet
+gdown
+ipywidgets
+matplotlib
+numba
+numpy
+pandas
+pyarrow
+seaborn
+torch>=2.0
+torchmetrics
+torchaudio
+torchvision
+tqdm
